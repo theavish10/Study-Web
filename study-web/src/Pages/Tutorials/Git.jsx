@@ -41,7 +41,7 @@ const Git = () => {
             <li style={listItem}>✅ Initialize and clone repositories</li>
             <li style={listItem}>✅ Commit and push changes</li>
             <li style={listItem}>✅ Branching and merging</li>
-            <li style={listItem}>✅ Collaborating with pull requests</li>
+            <li style={listItem}>✅ Collaborating with pull request</li>
           </ul>
         </div>
       </div>
